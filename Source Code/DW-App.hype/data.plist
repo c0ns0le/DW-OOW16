@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>454</string>
+	<string>1</string>
 	<key>customExportSlices</key>
 	<array>
 		<dict>
@@ -66,12 +66,15 @@
 	<true/>
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
+	<key>headHtml</key>
+	<string>    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
+	</string>
 	<key>lastCheckDate</key>
-	<date>2016-02-10T19:09:46Z</date>
+	<date>2016-02-15T15:49:37Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>2</integer>
+		<integer>1</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -262,7 +265,7 @@
 	<key>monotypeProjectID</key>
 	<string>3704B3F6-584F-4555-9B34-8076C9BEE708-454-0000003A729DA7D7</string>
 	<key>oidCounter</key>
-	<integer>568</integer>
+	<integer>598</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -373,6 +376,18 @@
 				<key>resources</key>
 				<array>
 					<string>Pasted.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>ic-Marketing-wht</string>
+				<key>oid</key>
+				<string>570</string>
+				<key>resources</key>
+				<array>
+					<string>ic-Marketing-wht.png</string>
 				</array>
 			</dict>
 		</array>
@@ -814,6 +829,54 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-05-16T22:46:21Z</date>
+				<key>fileSize</key>
+				<integer>25715</integer>
+				<key>md5</key>
+				<string>11B69262713FADEE7FFBE827ADDDDC37</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/keithlaker/Desktop/ic-Marketing-wht.png</string>
+				<key>resourceName</key>
+				<string>ic-Marketing-wht.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va6wCAAAAAAQQMAAAAMXXXtHCot1u8UranQKw7Puq
+				SOf4eDATxkSmbJ0ZwzVltAEAAAUAAAABAQAAVXNlcnMA
+				AAAKAAAAAQEAAGtlaXRobGFrZXIAAAcAAAABAQAARGVz
+				a3RvcAAUAAAAAQEAAGljLU1hcmtldGluZy13aHQucG5n
+				EAAAAAEGAAAEAAAAFAAAACgAAAA4AAAACAAAAAQDAAAJ
+				vwAAAAAAAAgAAAAEAwAA0koEAAAAAAAIAAAABAMAAHBL
+				BAAAAAAACAAAAAQDAAD2oqwBAAAAABAAAAABBgAAbAAA
+				AHwAAACMAAAAnAAAAAgAAAAABAAAQbkmzL0AAAAYAAAA
+				AQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAE
+				AwAAAgAAAAAAAAAEAAAAAwMAAPUBAAAOAAAAAQEAAEtF
+				SVRIUy1NQUMtUFJPAAAIAAAABAMAAABwEY01AAAACAAA
+				AAAEAABBtWT1zAAAACQAAAABAQAAOTQyMEY3MzctOEZE
+				Qi0zMzgyLUJEOUMtNThERDhBQzAyRUQ2GAAAAAECAACB
+				AAAAAQAIAO8XAAABAAgAAAAAAAAAAAABAAAAAQEAAC8A
+				AAAAAAAAAQUAAAQAAAADAwAAAAkAKMAAAAD+////AQAA
+				AAAAAAAPAAAABBAAAFQAAAAAAAAABRAAAKwAAAAAAAAA
+				EBAAANQAAAAAAAAAQBAAAMQAAAAAAAAAAiAAAJQBAAAA
+				AAAAECAAABABAAAAAAAAESAAAEgBAAAAAAAAEiAAACgB
+				AAAAAAAAEyAAADgBAAAAAAAAICAAAHQBAAAAAAAAMCAA
+				AKABAAAAAAAAAcAAAPQAAAAAAAAAEcAAABQAAAAAAAAA
+				EsAAAAQBAAAAAAAAENAAAKgBAAAAAAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
 		</array>
 	</dict>
 	<key>sceneContainers</key>
@@ -834,6 +897,8 @@
 						<array/>
 						<key>timeCursors</key>
 						<dict>
+							<key>598</key>
+							<real>0.0</real>
 							<key>kTimelineDefaultIdentifier</key>
 							<real>3.8333332538604736</real>
 						</dict>
@@ -841,7 +906,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1266, 1237}</string>
+					<string>{1266, 1281}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -930,7 +995,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>43</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -992,7 +1057,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>268</string>
 					<key>scrollViewOffset</key>
-					<string>{312, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1056,7 +1121,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>306</string>
 					<key>scrollViewOffset</key>
-					<string>{71, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1120,7 +1185,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>344</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1184,7 +1249,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>383</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1246,7 +1311,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>455</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1273,15 +1338,17 @@
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7D3D57B1-4CEA-49AA-8526-E6E831175CB3-2700-000020072FC9A665</string>
+			<string>15BFCE52-FBD0-4FC4-9524-C39D4EA7910B-2645-0000186A3D166552</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>569</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
 				<false/>
 				<key>currentTimelineIdentifier</key>
-				<string>kTimelineDefaultIdentifier</string>
+				<string>598</string>
 				<key>customBehaviors</key>
 				<array/>
 				<key>elements</key>
@@ -1358,7 +1425,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>2px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1501,7 +1568,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>2px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1644,7 +1711,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>450px</string>
+							<string>506px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1793,7 +1860,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>450px</string>
+							<string>506px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1936,7 +2003,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>2px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2079,7 +2146,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>450px</string>
+							<string>506px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2240,7 +2307,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>92px</string>
+							<string>44px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2288,7 +2355,7 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>SessionsText</string>
+							<string>TextSessions</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2387,7 +2454,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>506px</string>
+							<string>562px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2435,7 +2502,7 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>HolText</string>
+							<string>TextHOL</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2534,7 +2601,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>92px</string>
+							<string>44px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2582,7 +2649,7 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>AgendaText</string>
+							<string>TextAgenda</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2681,7 +2748,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>492px</string>
+							<string>548px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2729,7 +2796,7 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>SpeakersText</string>
+							<string>TextSpeakers</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2828,7 +2895,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>92px</string>
+							<string>44px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2876,7 +2943,7 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>SmText</string>
+							<string>TextSM</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2975,7 +3042,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>492px</string>
+							<string>548px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3023,7 +3090,7 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>MapsText</string>
+							<string>TextMaps</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3170,7 +3237,7 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>TextSubBanner</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3324,6 +3391,606 @@
 							<string>BackgroundColor</string>
 							<key>objectValue</key>
 							<string>#FF2600</string>
+						</dict>
+					</array>
+					<key>569</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundColor</string>
+							<key>objectValue</key>
+							<string>#FF2600</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Ellipse</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>963px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthRight</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorLeft</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>151px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>297px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>151px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusTopLeft</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>29</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthTop</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomLeft</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>EllipseFeedback</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>571</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>icFeedback</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>1200px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>337px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>1200px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>74px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>74px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>964px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>570</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>30</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+					</array>
+					<key>572</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>FontFamily</string>
+							<key>objectValue</key>
+							<string>Helvetica,Arial,Sans-Serif</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontWeight</string>
+							<key>objectValue</key>
+							<string>bold</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#FFFFFF</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>1020px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>328px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>Feedback</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>75px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>31</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>TextFeedback</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>573</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Rectangle</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>968px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthRight</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorLeft</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>80px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>307px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>32</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>130px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>goToURL</key>
+										<string>https://apex.oracle.com/pls/apex/f?p=54625:50:0::::LPOLL_ID,PID:58246013701879112378317773757217559918,58245906762046651389448652244460042151</string>
+										<key>openInNewWindow</key>
+										<true/>
+										<key>type</key>
+										<integer>5</integer>
+									</dict>
+								</array>
+							</dict>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthTop</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>RectFeedback</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>7</key>
@@ -3593,7 +4260,7 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>Banner</string>
+							<string>TextBanner</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3634,8 +4301,14 @@
 					<key>actions</key>
 					<array>
 						<dict>
+							<key>playInReverse</key>
+							<false/>
+							<key>symbolOid</key>
+							<string>2</string>
+							<key>timelineIdentifier</key>
+							<string>598</string>
 							<key>type</key>
-							<integer>0</integer>
+							<integer>3</integer>
 						</dict>
 					</array>
 				</dict>
@@ -3667,7 +4340,18 @@
 				<key>onSceneUnloadActionHandler</key>
 				<dict>
 					<key>actions</key>
-					<array/>
+					<array>
+						<dict>
+							<key>playInReverse</key>
+							<true/>
+							<key>symbolOid</key>
+							<string>2</string>
+							<key>timelineIdentifier</key>
+							<string>598</string>
+							<key>type</key>
+							<integer>3</integer>
+						</dict>
+					</array>
 				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
@@ -3704,12 +4388,289 @@
 						<key>userDefinedDuration</key>
 						<real>0.0</real>
 					</dict>
+					<dict>
+						<key>animations</key>
+						<array>
+							<dict>
+								<key>duration</key>
+								<real>1.0333333015441895</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>868px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>573</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>968px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>2683275E-909F-429A-B9E4-CDD7A54AC757-2645-000018CDCE989A38</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.0333333015441895</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>920px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>572</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>1020px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>E6C89C84-EFD2-4271-9069-4570BC43F92D-2645-000018CF05897BF0</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.0333333015441895</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>864px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>571</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>964px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>AE5DAE4B-D260-4C80-8B24-A2556FCE2088-2645-000018D03667DEE6</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.0333333015441895</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>863px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>569</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>963px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A9B3C16E-6CB1-409B-9B32-076292EF168C-2645-000018D204B6F613</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>573</string>
+								<key>startTime</key>
+								<real>1.0333333015441895</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>868px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>D571768A-7D1B-46D4-A536-14B085565261-2645-000018CDCEB6BF25</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>572</string>
+								<key>startTime</key>
+								<real>1.0333333015441895</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>920px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>E307FE16-97DD-4929-9BB5-AEBC1D840658-2645-000018CF05A62487</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>571</string>
+								<key>startTime</key>
+								<real>1.0333333015441895</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>864px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>65BCE646-ECE1-40BC-9E85-D0939197FA3E-2645-000018D03685332F</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>569</string>
+								<key>startTime</key>
+								<real>1.0333333015441895</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>863px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>2AA86C09-FDBA-40C0-B8CC-73D9234752CA-2645-000018D204D3FC6C</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<key>firstKeyframeIsRelative</key>
+						<false/>
+						<key>framesPerSecond</key>
+						<integer>30</integer>
+						<key>hidden</key>
+						<false/>
+						<key>identifier</key>
+						<string>598</string>
+						<key>name</key>
+						<string>Feedback</string>
+						<key>userDefinedDuration</key>
+						<real>0.0</real>
+					</dict>
 				</array>
 			</dict>
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7D3D57B1-4CEA-49AA-8526-E6E831175CB3-2700-000020072FC9A665</string>
+			<string>15BFCE52-FBD0-4FC4-9524-C39D4EA7910B-2645-0000186A3D166552</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>symbol</key>
@@ -6459,9 +7420,9 @@ Big Data Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6477,9 +7438,9 @@ Big Data Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6495,15 +7456,15 @@ Big Data Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Cursor</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>pointer</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7434,9 +8395,9 @@ Big Data Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7452,9 +8413,9 @@ Big Data Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7467,6 +8428,12 @@ Big Data Sessions
 							<string>PaddingBottom</string>
 							<key>objectValue</key>
 							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7527,6 +8494,26 @@ Big Data Sessions
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>39</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>1</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10820,7 +11807,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>AD3287F7-89E0-4A90-9F2D-E510205B93CA-2700-000021D682D2F3E2</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -10856,7 +11843,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>0AF5E396-D100-4C9F-A7BA-86CF0B9BDE5D-3183-00001DB4A24B0F4F</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -10885,7 +11872,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>8EF1599E-6C24-41F2-AA0F-67F04EDA240C-2700-000021D682F1A767</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -10914,7 +11901,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>A67387AF-B0BF-4FFD-8DB4-99FE265E523B-3183-00001DB3682737B6</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -10943,7 +11930,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>988427E1-1D8C-44F0-885F-45CF43D23122-3183-00001DB4A28AF004</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -11032,7 +12019,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>5A701AEA-8CB1-4627-8D55-66FC0D04EDAA-2700-000021DAAFD73B89</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11068,7 +12055,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>DA434F27-F75C-4E78-9E41-987276D5D611-3769-00002876BE66BD53</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11097,7 +12084,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>DD5312FD-909B-49A1-AF42-47CDA6D00EFD-2700-000021DAAFF5A8E6</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11126,7 +12113,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>F5787955-91C4-4365-A3CF-94CE7D01C071-3769-00002874EE7A9993</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11155,7 +12142,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>4CBF2896-3497-4277-91D5-35A8BBAAB9CB-3769-00002876BE83A1C1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -11244,7 +12231,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>6A266BEE-EBA1-4E57-A4C3-F70AA999842A-2700-000021DECD38D124</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11280,7 +12267,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>1BCC3E7C-D767-47AA-8652-CE8266FA193D-3769-000028801A60D208</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11309,7 +12296,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>357B4564-F370-4B57-BFC9-5B083178361E-2700-000021DECD572BB8</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11338,7 +12325,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>0D818F2B-F00D-4722-A46B-EECDA5D6DAB5-3769-0000287F12E4DAAB</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11367,7 +12354,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>4B3DB863-A9D0-4472-8309-CAA934E83186-3769-000028801A7C73D1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -11456,7 +12443,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>FEF86AC0-53C6-4967-9019-ED44CA7DDACB-2700-000021E319D73B0F</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11492,7 +12479,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>4A2571B9-8BD0-4695-BE42-0D60CAB29941-3769-00002889505DDBEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11521,7 +12508,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>67280E5E-8048-49F7-98FE-4CB554486688-2700-000021E319F5601E</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11550,7 +12537,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>E1DDFF9F-F55C-41A7-BEBA-57600D95A2BD-3769-00002887DCFD1870</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11579,7 +12566,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>EFEBD759-A4A7-41EC-BE09-722B6BAA1BF6-3769-000028895079382D</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -11668,7 +12655,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>C31281FB-C6EB-4D15-A920-30B3082596B5-2700-000021E89BC5F01F</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11704,7 +12691,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>D8AE5D7E-D1BB-40BB-B81F-D20A77B31BC9-3769-00002891854CFFEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11733,7 +12720,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>F21B146F-6AA0-4273-B327-8A5330F37604-2700-000021E89BE4963A</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11762,7 +12749,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>91F567C3-658B-4D71-845C-9E4194FE3698-3769-000028908E663569</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11791,7 +12778,7 @@ Big Data Sessions
 								<key>uuid</key>
 								<string>1EBD0A0D-5C23-4EFF-A5BD-9BB4E8148F82-3769-000028918568D4F4</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -11812,11 +12799,9 @@ Big Data Sessions
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7D3D57B1-4CEA-49AA-8526-E6E831175CB3-2700-000020072FC9A665</string>
+			<string>15BFCE52-FBD0-4FC4-9524-C39D4EA7910B-2645-0000186A3D166552</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>559</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -11941,7 +12926,7 @@ Big Data Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>51</string>
+							<string>55</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12124,7 +13109,7 @@ Big Data Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>57</string>
+							<string>61</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12328,7 +13313,7 @@ DW Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>58</string>
+							<string>62</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12628,7 +13613,7 @@ DW Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>48</string>
+							<string>52</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12832,7 +13817,7 @@ Analytics Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>56</string>
+							<string>60</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -13330,7 +14315,7 @@ Unstructured Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>54</string>
+							<string>58</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -13779,7 +14764,7 @@ Unstructured Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>45</string>
+							<string>49</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -13962,7 +14947,7 @@ Unstructured Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>55</string>
+							<string>59</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14145,7 +15130,7 @@ Unstructured Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>53</string>
+							<string>57</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14457,7 +15442,7 @@ Unstructured Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>46</string>
+							<string>50</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14661,7 +15646,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>52</string>
+							<string>56</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14881,9 +15866,9 @@ Big Data Labs
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14899,9 +15884,9 @@ Big Data Labs
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14914,6 +15899,12 @@ Big Data Labs
 							<string>PaddingBottom</string>
 							<key>objectValue</key>
 							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14974,6 +15965,26 @@ Big Data Labs
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>40</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>1</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15243,7 +16254,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>47</string>
+							<string>51</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15684,9 +16695,9 @@ Big Data Labs
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15702,9 +16713,9 @@ Big Data Labs
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15720,15 +16731,15 @@ Big Data Labs
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>#424242</string>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Cursor</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>pointer</string>
+							<string>#424242</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15782,7 +16793,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>41</string>
+							<string>45</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15977,7 +16988,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>42</string>
+							<string>46</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16172,7 +17183,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>43</string>
+							<string>47</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16367,7 +17378,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>44</string>
+							<string>48</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -17695,7 +18706,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>B86466AC-BF0D-46E7-AD42-A829D9C053C8-2700-00002268F8830088</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -17731,7 +18742,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>DA434F27-F75C-4E78-9E41-987276D5D611-3769-00002876BE66BD53</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -17760,7 +18771,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>04E87B72-AD23-4594-9EA7-483EDBABB164-2700-00002268F8A21DDB</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -17789,7 +18800,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>F5787955-91C4-4365-A3CF-94CE7D01C071-3769-00002874EE7A9993</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -17818,7 +18829,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>4CBF2896-3497-4277-91D5-35A8BBAAB9CB-3769-00002876BE83A1C1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -17907,7 +18918,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>706D7C83-09E5-4B89-94FA-14C645AD0CFC-2700-0000226C42A5EDFB</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -17943,7 +18954,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>1BCC3E7C-D767-47AA-8652-CE8266FA193D-3769-000028801A60D208</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -17972,7 +18983,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>7C281FAD-0489-40DC-97D8-A6192994A0AF-2700-0000226C42C50138</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18001,7 +19012,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>0D818F2B-F00D-4722-A46B-EECDA5D6DAB5-3769-0000287F12E4DAAB</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18030,7 +19041,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>4B3DB863-A9D0-4472-8309-CAA934E83186-3769-000028801A7C73D1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -18119,7 +19130,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>39009FA1-E512-4ACE-8822-E2FFCD62DE23-2700-0000226FB1EE7F2B</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18155,7 +19166,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>4A2571B9-8BD0-4695-BE42-0D60CAB29941-3769-00002889505DDBEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18184,7 +19195,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>BEF1099B-6D50-4627-8410-66700CB0BE71-2700-0000226FB20DCC86</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18213,7 +19224,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>E1DDFF9F-F55C-41A7-BEBA-57600D95A2BD-3769-00002887DCFD1870</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18242,7 +19253,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>EFEBD759-A4A7-41EC-BE09-722B6BAA1BF6-3769-000028895079382D</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -18331,7 +19342,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>CE9ED367-5484-47E8-BA7D-E8BF60B4081E-2700-000022737AF6146B</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18367,7 +19378,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>D8AE5D7E-D1BB-40BB-B81F-D20A77B31BC9-3769-00002891854CFFEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18396,7 +19407,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>3B02B186-F8BB-46F0-BDFF-6C0A45D78E94-2700-000022737B1562FA</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18425,7 +19436,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>91F567C3-658B-4D71-845C-9E4194FE3698-3769-000028908E663569</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -18454,7 +19465,7 @@ Big Data Labs
 								<key>uuid</key>
 								<string>1EBD0A0D-5C23-4EFF-A5BD-9BB4E8148F82-3769-000028918568D4F4</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -18475,7 +19486,7 @@ Big Data Labs
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7D3D57B1-4CEA-49AA-8526-E6E831175CB3-2700-000020072FC9A665</string>
+			<string>15BFCE52-FBD0-4FC4-9524-C39D4EA7910B-2645-0000186A3D166552</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>symbol</key>
@@ -18483,7 +19494,7 @@ Big Data Labs
 				<key>addToNewSceneControllers</key>
 				<false/>
 				<key>currentTimelineIdentifier</key>
-				<string>340</string>
+				<string>kTimelineDefaultIdentifier</string>
 				<key>customBehaviors</key>
 				<array/>
 				<key>elements</key>
@@ -18602,7 +19613,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>50</string>
+							<string>54</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18785,7 +19796,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>52</string>
+							<string>56</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18968,7 +19979,7 @@ Big Data Labs
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>58</string>
+							<string>62</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19172,7 +20183,7 @@ DW Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>59</string>
+							<string>63</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19338,9 +20349,9 @@ DW Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>335</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -19348,9 +20359,9 @@ DW Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>300</string>
+										<string>338</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -19472,7 +20483,7 @@ DW Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>49</string>
+							<string>53</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19676,7 +20687,7 @@ Analytics Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>57</string>
+							<string>61</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19842,9 +20853,9 @@ Analytics Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>335</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -19852,9 +20863,9 @@ Analytics Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>301</string>
+										<string>339</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -20174,7 +21185,7 @@ Unstructured Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>55</string>
+							<string>59</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -20340,9 +21351,9 @@ Unstructured Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>335</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -20350,9 +21361,9 @@ Unstructured Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>302</string>
+										<string>340</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -20672,9 +21683,9 @@ Unstructured Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>335</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -20682,9 +21693,9 @@ Unstructured Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>298</string>
+										<string>336</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -20806,7 +21817,7 @@ Unstructured Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>46</string>
+							<string>50</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -20989,7 +22000,7 @@ Unstructured Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>56</string>
+							<string>60</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -21325,7 +22336,7 @@ Unstructured Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>54</string>
+							<string>58</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -21637,7 +22648,7 @@ Unstructured Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>47</string>
+							<string>51</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -21841,7 +22852,7 @@ Keynote Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>51</string>
+							<string>55</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -22162,7 +23173,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>53</string>
+							<string>57</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -22382,9 +23393,9 @@ Big Data Speakers
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -22400,9 +23411,9 @@ Big Data Speakers
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -22415,6 +23426,12 @@ Big Data Speakers
 							<string>PaddingBottom</string>
 							<key>objectValue</key>
 							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -22475,6 +23492,26 @@ Big Data Speakers
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>40</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>1</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -22744,7 +23781,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>48</string>
+							<string>52</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -22952,9 +23989,9 @@ Big Data Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>335</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -22962,9 +23999,9 @@ Big Data Speakers
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>306</string>
 										<key>timelineIdentifier</key>
-										<string>299</string>
+										<string>337</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -23179,9 +24216,9 @@ Big Data Speakers
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23197,9 +24234,9 @@ Big Data Speakers
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23215,15 +24252,15 @@ Big Data Speakers
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>#424242</string>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Cursor</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>pointer</string>
+							<string>#424242</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23277,7 +24314,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>41</string>
+							<string>45</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23472,7 +24509,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>42</string>
+							<string>46</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23667,7 +24704,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>43</string>
+							<string>47</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23862,7 +24899,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>44</string>
+							<string>48</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -24057,7 +25094,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>45</string>
+							<string>49</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -25580,7 +26617,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>C971CBC2-9709-41D7-BEB8-1E4B216FC3B7-2700-000022B6E87A1F43</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -25616,7 +26653,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>0AF5E396-D100-4C9F-A7BA-86CF0B9BDE5D-3183-00001DB4A24B0F4F</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -25645,7 +26682,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>B8897624-82D9-48E0-B289-1D23F64F82B3-2700-000022B6E89A587C</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -25674,7 +26711,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>A67387AF-B0BF-4FFD-8DB4-99FE265E523B-3183-00001DB3682737B6</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -25703,7 +26740,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>988427E1-1D8C-44F0-885F-45CF43D23122-3183-00001DB4A28AF004</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -25792,7 +26829,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>E0D7AB80-D7B4-4979-8D2F-763D17B51B47-2700-000022B9B1D39C54</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -25828,7 +26865,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>DA434F27-F75C-4E78-9E41-987276D5D611-3769-00002876BE66BD53</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -25857,7 +26894,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>D3138730-9031-4A56-AB45-18F919D42B8A-2700-000022B9B1F424B4</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -25886,7 +26923,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>F5787955-91C4-4365-A3CF-94CE7D01C071-3769-00002874EE7A9993</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -25915,7 +26952,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>4CBF2896-3497-4277-91D5-35A8BBAAB9CB-3769-00002876BE83A1C1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -26004,7 +27041,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>00D6949C-FE03-4359-89C4-455B3AD4CAA0-2700-000022BCB44037D8</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26040,7 +27077,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>1BCC3E7C-D767-47AA-8652-CE8266FA193D-3769-000028801A60D208</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26069,7 +27106,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>5A0BFC2D-7744-47C2-85E1-CF406CCA7896-2700-000022BCB461010B</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26098,7 +27135,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>0D818F2B-F00D-4722-A46B-EECDA5D6DAB5-3769-0000287F12E4DAAB</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26127,7 +27164,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>4B3DB863-A9D0-4472-8309-CAA934E83186-3769-000028801A7C73D1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -26216,7 +27253,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>98C55C2B-802D-44EB-A08C-02B29A650F9F-2700-000022C24A4F619B</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26252,7 +27289,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>4A2571B9-8BD0-4695-BE42-0D60CAB29941-3769-00002889505DDBEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26281,7 +27318,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>4A731706-DA36-4C77-8630-829794D9A84A-2700-000022C24A7084CB</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26310,7 +27347,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>E1DDFF9F-F55C-41A7-BEBA-57600D95A2BD-3769-00002887DCFD1870</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26339,7 +27376,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>EFEBD759-A4A7-41EC-BE09-722B6BAA1BF6-3769-000028895079382D</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -26428,7 +27465,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>E49DDDE5-9DCD-4D08-9FDD-224AAF97790E-2700-000022C627BF3591</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26464,7 +27501,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>D8AE5D7E-D1BB-40BB-B81F-D20A77B31BC9-3769-00002891854CFFEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26493,7 +27530,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>94E6FAFF-854B-440A-99E0-8D5BF1629A92-2700-000022C627E0545C</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26522,7 +27559,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>91F567C3-658B-4D71-845C-9E4194FE3698-3769-000028908E663569</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -26551,7 +27588,7 @@ Big Data Speakers
 								<key>uuid</key>
 								<string>1EBD0A0D-5C23-4EFF-A5BD-9BB4E8148F82-3769-000028918568D4F4</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -26572,11 +27609,9 @@ Big Data Speakers
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7D3D57B1-4CEA-49AA-8526-E6E831175CB3-2700-000020072FC9A665</string>
+			<string>15BFCE52-FBD0-4FC4-9524-C39D4EA7910B-2645-0000186A3D166552</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>356</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -26701,7 +27736,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>50</string>
+							<string>54</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -26884,7 +27919,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>52</string>
+							<string>56</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -27049,7 +28084,7 @@ Big Data Speakers
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>58</string>
+							<string>62</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -27253,7 +28288,7 @@ Monday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>59</string>
+							<string>63</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -27419,9 +28454,9 @@ Monday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>373</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -27429,9 +28464,9 @@ Monday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>300</string>
+										<string>376</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -27553,7 +28588,7 @@ Monday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>49</string>
+							<string>53</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -27757,7 +28792,7 @@ Tuesday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>57</string>
+							<string>61</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -27923,9 +28958,9 @@ Tuesday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>373</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -27933,9 +28968,9 @@ Tuesday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>301</string>
+										<string>377</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -28255,7 +29290,7 @@ Wednesday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>55</string>
+							<string>59</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -28421,9 +29456,9 @@ Wednesday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>373</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -28431,9 +29466,9 @@ Wednesday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>302</string>
+										<string>378</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -28753,9 +29788,9 @@ Wednesday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>373</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -28763,9 +29798,9 @@ Wednesday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>298</string>
+										<string>374</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -28887,7 +29922,7 @@ Wednesday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>46</string>
+							<string>50</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -29070,7 +30105,7 @@ Wednesday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>56</string>
+							<string>60</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -29412,7 +30447,7 @@ Wednesday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>54</string>
+							<string>58</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -29724,7 +30759,7 @@ Wednesday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>47</string>
+							<string>51</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -29928,7 +30963,7 @@ Sunday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>51</string>
+							<string>55</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -30249,7 +31284,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>53</string>
+							<string>57</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -30469,9 +31504,9 @@ Thursday Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -30487,9 +31522,9 @@ Thursday Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -30502,6 +31537,12 @@ Thursday Sessions
 							<string>PaddingBottom</string>
 							<key>objectValue</key>
 							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -30562,6 +31603,26 @@ Thursday Sessions
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>40</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>1</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -30837,7 +31898,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>48</string>
+							<string>52</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -31045,9 +32106,9 @@ Thursday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>373</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -31055,9 +32116,9 @@ Thursday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>344</string>
 										<key>timelineIdentifier</key>
-										<string>299</string>
+										<string>375</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -31370,7 +32431,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>42</string>
+							<string>46</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -31565,7 +32626,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>43</string>
+							<string>47</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -31760,7 +32821,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>44</string>
+							<string>48</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -31955,7 +33016,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>45</string>
+							<string>49</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -32150,7 +33211,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>41</string>
+							<string>45</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -33673,7 +34734,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>FEF771C6-FCCC-4C27-8668-4B7C6394FCDC-2700-00002121FB603F07</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -33709,7 +34770,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>0AF5E396-D100-4C9F-A7BA-86CF0B9BDE5D-3183-00001DB4A24B0F4F</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -33738,7 +34799,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>233D8803-5257-4D64-923E-13E9855CB533-2700-00002121FB7F9BBD</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -33767,7 +34828,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>A67387AF-B0BF-4FFD-8DB4-99FE265E523B-3183-00001DB3682737B6</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -33796,7 +34857,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>988427E1-1D8C-44F0-885F-45CF43D23122-3183-00001DB4A28AF004</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -33885,7 +34946,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>0B243CFD-7B82-4ED0-A97E-EE8EA8DDB739-2700-000020D7DEE39F2B</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -33921,7 +34982,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>DA434F27-F75C-4E78-9E41-987276D5D611-3769-00002876BE66BD53</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -33950,7 +35011,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>828E7911-5868-4516-8661-AEBE70A92222-2700-000020D7DF023468</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -33979,7 +35040,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>F5787955-91C4-4365-A3CF-94CE7D01C071-3769-00002874EE7A9993</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34008,7 +35069,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>4CBF2896-3497-4277-91D5-35A8BBAAB9CB-3769-00002876BE83A1C1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -34097,7 +35158,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>6C4F9F7E-F454-4DB1-8891-86EE7DEA078C-2700-0000210EBDFA7124</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34133,7 +35194,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>1BCC3E7C-D767-47AA-8652-CE8266FA193D-3769-000028801A60D208</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34162,7 +35223,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>91B29678-CA5C-4C1D-A542-3E81D88D1ADC-2700-0000210EBE19D438</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34191,7 +35252,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>0D818F2B-F00D-4722-A46B-EECDA5D6DAB5-3769-0000287F12E4DAAB</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34220,7 +35281,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>4B3DB863-A9D0-4472-8309-CAA934E83186-3769-000028801A7C73D1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -34309,7 +35370,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>EEE88DF4-2502-4229-9385-7380F988FA4D-2700-0000211475DFE6B3</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34345,7 +35406,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>4A2571B9-8BD0-4695-BE42-0D60CAB29941-3769-00002889505DDBEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34374,7 +35435,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>3B770EC2-E658-439E-B027-BAC0DB7386C2-2700-0000211475FC557E</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34403,7 +35464,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>E1DDFF9F-F55C-41A7-BEBA-57600D95A2BD-3769-00002887DCFD1870</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34432,7 +35493,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>EFEBD759-A4A7-41EC-BE09-722B6BAA1BF6-3769-000028895079382D</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -34521,7 +35582,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>20D39A18-6278-49F8-B1AF-7844AB65E7B1-2700-00002117D04CDEBA</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34557,7 +35618,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>D8AE5D7E-D1BB-40BB-B81F-D20A77B31BC9-3769-00002891854CFFEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34586,7 +35647,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>C003EC70-AD62-4EC5-AA66-7C843C486FDC-2700-00002117D0694453</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34615,7 +35676,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>91F567C3-658B-4D71-845C-9E4194FE3698-3769-000028908E663569</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -34644,7 +35705,7 @@ Thursday Sessions
 								<key>uuid</key>
 								<string>1EBD0A0D-5C23-4EFF-A5BD-9BB4E8148F82-3769-000028918568D4F4</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -34665,11 +35726,9 @@ Thursday Sessions
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7D3D57B1-4CEA-49AA-8526-E6E831175CB3-2700-000020072FC9A665</string>
+			<string>15BFCE52-FBD0-4FC4-9524-C39D4EA7910B-2645-0000186A3D166552</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>395</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -34720,9 +35779,9 @@ Thursday Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -34738,9 +35797,9 @@ Thursday Sessions
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -34753,6 +35812,12 @@ Thursday Sessions
 							<string>PaddingBottom</string>
 							<key>objectValue</key>
 							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -34813,6 +35878,26 @@ Thursday Sessions
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>42</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>1</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -35265,7 +36350,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>52</string>
+							<string>56</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -35632,9 +36717,9 @@ Thursday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>412</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -35642,9 +36727,9 @@ Thursday Sessions
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>300</string>
+										<string>415</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -35943,7 +37028,7 @@ Thursday Sessions
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>56</string>
+							<string>60</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -36166,7 +37251,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>57</string>
+							<string>61</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -36307,7 +37392,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>54</string>
+							<string>58</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -36523,7 +37608,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>55</string>
+							<string>59</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -36689,9 +37774,9 @@ td.SMImage {width:55px; vertical-align:top;}
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>412</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -36699,9 +37784,9 @@ td.SMImage {width:55px; vertical-align:top;}
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>298</string>
+										<string>413</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -36823,7 +37908,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>51</string>
+							<string>55</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -36982,7 +38067,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>50</string>
+							<string>54</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -37318,7 +38403,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>60</string>
+							<string>64</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -37477,7 +38562,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>48</string>
+							<string>52</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -37699,7 +38784,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>59</string>
+							<string>63</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -37865,9 +38950,9 @@ td.SMImage {width:55px; vertical-align:top;}
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>412</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -37875,9 +38960,9 @@ td.SMImage {width:55px; vertical-align:top;}
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>299</string>
+										<string>414</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -37999,7 +39084,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>49</string>
+							<string>53</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -38207,9 +39292,9 @@ td.SMImage {width:55px; vertical-align:top;}
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>412</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -38217,9 +39302,9 @@ td.SMImage {width:55px; vertical-align:top;}
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>302</string>
+										<string>417</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -38518,7 +39603,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>58</string>
+							<string>62</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -38726,9 +39811,9 @@ td.SMImage {width:55px; vertical-align:top;}
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>297</string>
+										<string>412</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -38736,9 +39821,9 @@ td.SMImage {width:55px; vertical-align:top;}
 										<key>playInReverse</key>
 										<false/>
 										<key>symbolOid</key>
-										<string>43</string>
+										<string>383</string>
 										<key>timelineIdentifier</key>
-										<string>301</string>
+										<string>416</string>
 										<key>type</key>
 										<integer>3</integer>
 									</dict>
@@ -38920,7 +40005,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>53</string>
+							<string>57</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -39251,7 +40336,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>61</string>
+							<string>65</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -39461,9 +40546,9 @@ td.SMImage {width:55px; vertical-align:top;}
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -39479,9 +40564,9 @@ td.SMImage {width:55px; vertical-align:top;}
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -39497,15 +40582,15 @@ td.SMImage {width:55px; vertical-align:top;}
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>#424242</string>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Cursor</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>pointer</string>
+							<string>#424242</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -39559,7 +40644,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>43</string>
+							<string>47</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -39754,7 +40839,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>44</string>
+							<string>48</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -39949,7 +41034,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>45</string>
+							<string>49</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -40144,7 +41229,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>46</string>
+							<string>50</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -40339,7 +41424,7 @@ td.SMImage {width:55px; vertical-align:top;}
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>47</string>
+							<string>51</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -41862,7 +42947,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>55756019-3E4A-4563-9F30-9E475E287136-2700-000021787C10AC6B</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -41898,7 +42983,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>0AF5E396-D100-4C9F-A7BA-86CF0B9BDE5D-3183-00001DB4A24B0F4F</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -41927,7 +43012,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>5CDD5407-3F73-435A-AA88-6BBA29C8DCF0-2700-000021787C2DA2AA</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -41956,7 +43041,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>A67387AF-B0BF-4FFD-8DB4-99FE265E523B-3183-00001DB3682737B6</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -41985,7 +43070,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>988427E1-1D8C-44F0-885F-45CF43D23122-3183-00001DB4A28AF004</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -42074,7 +43159,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>CE21E010-81F3-4566-A562-BB8F37547547-2700-0000217D4867CE2F</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42110,7 +43195,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>DA434F27-F75C-4E78-9E41-987276D5D611-3769-00002876BE66BD53</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42139,7 +43224,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>8B278528-BD45-4864-9BDB-EA5681EC5D86-2700-0000217D48857725</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42168,7 +43253,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>F5787955-91C4-4365-A3CF-94CE7D01C071-3769-00002874EE7A9993</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42197,7 +43282,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>4CBF2896-3497-4277-91D5-35A8BBAAB9CB-3769-00002876BE83A1C1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -42286,7 +43371,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>2D35093B-85A5-441A-8330-4AE07B7A4EB8-2700-00002183958C6CFD</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42322,7 +43407,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>1BCC3E7C-D767-47AA-8652-CE8266FA193D-3769-000028801A60D208</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42351,7 +43436,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>2ABA1BF6-5DB2-4BA4-B2F6-2F3C80FAAA2C-2700-0000218395A9A347</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42380,7 +43465,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>0D818F2B-F00D-4722-A46B-EECDA5D6DAB5-3769-0000287F12E4DAAB</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42409,7 +43494,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>4B3DB863-A9D0-4472-8309-CAA934E83186-3769-000028801A7C73D1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -42498,7 +43583,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>EEDC7A87-DED4-459F-BBE1-1438A0875C25-2700-0000218907CD2E89</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42534,7 +43619,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>4A2571B9-8BD0-4695-BE42-0D60CAB29941-3769-00002889505DDBEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42563,7 +43648,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>BE778D52-41CA-4C4C-BA50-084BE2B482AC-2700-0000218907EA6673</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42592,7 +43677,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>E1DDFF9F-F55C-41A7-BEBA-57600D95A2BD-3769-00002887DCFD1870</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42621,7 +43706,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>EFEBD759-A4A7-41EC-BE09-722B6BAA1BF6-3769-000028895079382D</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -42710,7 +43795,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>7D16D151-4F29-4EDD-A213-D07C43F9C540-2700-0000218FE47FC133</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42746,7 +43831,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>D8AE5D7E-D1BB-40BB-B81F-D20A77B31BC9-3769-00002891854CFFEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42775,7 +43860,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>DD5910CA-1FB7-4F12-B07A-CB4EEB69A379-2700-0000218FE49DA5FA</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42804,7 +43889,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>91F567C3-658B-4D71-845C-9E4194FE3698-3769-000028908E663569</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -42833,7 +43918,7 @@ td.SMImage {width:55px; vertical-align:top;}
 								<key>uuid</key>
 								<string>1EBD0A0D-5C23-4EFF-A5BD-9BB4E8148F82-3769-000028918568D4F4</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -42854,11 +43939,9 @@ td.SMImage {width:55px; vertical-align:top;}
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7D3D57B1-4CEA-49AA-8526-E6E831175CB3-2700-000020072FC9A665</string>
+			<string>15BFCE52-FBD0-4FC4-9524-C39D4EA7910B-2645-0000186A3D166552</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>568</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -43011,7 +44094,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>57</string>
+							<string>61</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -43311,7 +44394,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>47</string>
+							<string>51</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -43494,7 +44577,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>58</string>
+							<string>62</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -43830,7 +44913,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>56</string>
+							<string>60</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -44405,7 +45488,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>59</string>
+							<string>63</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -44472,9 +45555,9 @@ table.level_border1 {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -44490,9 +45573,9 @@ table.level_border1 {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -44505,6 +45588,12 @@ table.level_border1 {
 							<string>PaddingBottom</string>
 							<key>objectValue</key>
 							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -44565,6 +45654,26 @@ table.level_border1 {
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>41</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>1</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -45343,7 +46452,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>54</string>
+							<string>58</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -45554,7 +46663,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>55</string>
+							<string>59</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -45671,7 +46780,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>49</string>
+							<string>53</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -45830,7 +46939,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>48</string>
+							<string>52</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -46166,7 +47275,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>52</string>
+							<string>56</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -46378,7 +47487,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>53</string>
+							<string>57</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -46495,7 +47604,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>46</string>
+							<string>50</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -46747,9 +47856,9 @@ table.level_border1 {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>Cursor</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -46765,9 +47874,9 @@ table.level_border1 {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -46783,15 +47892,15 @@ table.level_border1 {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>#424242</string>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Cursor</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>pointer</string>
+							<string>#424242</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -46845,7 +47954,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>42</string>
+							<string>46</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -47040,7 +48149,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>43</string>
+							<string>47</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -47235,7 +48344,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>44</string>
+							<string>48</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -47430,7 +48539,7 @@ table.level_border1 {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>45</string>
+							<string>49</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -48758,7 +49867,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>19289911-8AAF-4F1C-8DB6-B5316D6E9696-2700-000022F973D3B270</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -48794,7 +49903,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>DA434F27-F75C-4E78-9E41-987276D5D611-3769-00002876BE66BD53</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -48823,7 +49932,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>CCBBD7AC-0A13-43E7-BF99-4F32686D4893-2700-000022F973F40E5B</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -48852,7 +49961,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>F5787955-91C4-4365-A3CF-94CE7D01C071-3769-00002874EE7A9993</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -48881,7 +49990,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>4CBF2896-3497-4277-91D5-35A8BBAAB9CB-3769-00002876BE83A1C1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -48970,7 +50079,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>08DBD77B-EB60-4A4E-AD77-2C7008F46B41-2700-000022FC65B5AB7A</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49006,7 +50115,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>1BCC3E7C-D767-47AA-8652-CE8266FA193D-3769-000028801A60D208</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49035,7 +50144,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>000A1889-333C-4522-9926-CFD9E9312565-2700-000022FC65D633D8</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49064,7 +50173,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>0D818F2B-F00D-4722-A46B-EECDA5D6DAB5-3769-0000287F12E4DAAB</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49093,7 +50202,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>4B3DB863-A9D0-4472-8309-CAA934E83186-3769-000028801A7C73D1</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -49182,7 +50291,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>00216480-1511-4A04-99F6-ECEDB2823BB3-2700-000023000432FE91</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49218,7 +50327,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>4A2571B9-8BD0-4695-BE42-0D60CAB29941-3769-00002889505DDBEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49247,7 +50356,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>6228C125-178D-447B-B674-F28D317EA8DF-2700-000023000453AE92</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49276,7 +50385,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>E1DDFF9F-F55C-41A7-BEBA-57600D95A2BD-3769-00002887DCFD1870</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49305,7 +50414,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>EFEBD759-A4A7-41EC-BE09-722B6BAA1BF6-3769-000028895079382D</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -49394,7 +50503,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>CBF4EEB9-D075-49FD-928D-68439EF0098B-2700-0000230339540ADC</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49430,7 +50539,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>D8AE5D7E-D1BB-40BB-B81F-D20A77B31BC9-3769-00002891854CFFEE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49459,7 +50568,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>1BABD9B3-5E5A-47A2-949E-510453207A54-2700-0000230339744C27</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49488,7 +50597,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>91F567C3-658B-4D71-845C-9E4194FE3698-3769-000028908E663569</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -49517,7 +50626,7 @@ table.level_border1 {
 								<key>uuid</key>
 								<string>1EBD0A0D-5C23-4EFF-A5BD-9BB4E8148F82-3769-000028918568D4F4</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
